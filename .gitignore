@@ -1,2 +1,1 @@
-# 프로젝트 제외 경로
-/cmake-build-debug/
+*.out
